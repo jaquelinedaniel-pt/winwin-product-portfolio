@@ -19,18 +19,36 @@ Escalabilidade: A lógica de negócio é agnóstica, podendo ser adaptada para g
 
 ---
 
-## 📚 Documentação Estratégica (Portfólio de PO)
+## 📚 Portfólio de Análise Funcional & Requisitos
 
-Como Product Owner, a documentação deste projeto foi estruturada para refletir decisões estratégicas de mercado e viabilidade técnica.
+Como Product Owner e Analista Funcional, a documentação deste projeto foi estruturada para demonstrar o ciclo de vida completo do produto, da concepção à validação.
 
-### 1. [🎯 Visão do Produto & Business Case](./docs/01-product-vision.md)
-> **O que você vai encontrar:** Definição do problema, proposta de valor, matriz de riscos e estratégia de monetização.
+### 1. [🔭 Visão & Estratégia de Produto](https://github.com/jaquelinedaniel-pt/winwin-product-portfolio/tree/main/docs/01-Visão_e_Estratégia)
+> *Definição do problema, alinhamento de expectativas e roadmap.*
+* [**Visão do Produto & Business Case**](https://github.com/jaquelinedaniel-pt/winwin-product-portfolio/blob/main/docs/01-Visão_e_Estratégia/01-product-vision.md)
+* [**Priorização de Escopo (MoSCoW)**](https://github.com/jaquelinedaniel-pt/winwin-product-portfolio/blob/main/docs/01-Visão_e_Estratégia/02-prioritization-moscow.md)
 
-### 2. [⚙️ Decisões de Arquitetura & Custo](./docs/02-technical-strategy.md)
-> **O que você vai encontrar:** O algoritmo "Lazy Audit" (Serverless) desenhado para custo zero e a estratégia "Dual-Token".
+### 2. [⚙️ Engenharia de Requisitos](https://github.com/jaquelinedaniel-pt/winwin-product-portfolio/tree/main/docs/02-Engenharia_de_Requisitos)
+> *Tradução de necessidades de negócio em requisitos técnicos claros.*
+* [**User Stories Detalhadas**](https://github.com/jaquelinedaniel-pt/winwin-product-portfolio/blob/main/docs/02-Engenharia_de_Requisitos/01-user-stories.md)
+* [**Casos de Uso (Fluxos)**](https://github.com/jaquelinedaniel-pt/winwin-product-portfolio/blob/main/docs/02-Engenharia_de_Requisitos/02-use-cases.md)
+* [**Matriz de Rastreabilidade (RTM)**](https://github.com/jaquelinedaniel-pt/winwin-product-portfolio/blob/main/docs/02-Engenharia_de_Requisitos/03-traceability-matrix.md)
 
-### 3. [🛡️ Relatório de Qualidade (QA)](./docs/03-quality-assurance.md)
-> **O que você vai encontrar:** Critérios de aceite, matriz de testes e validação de segurança e privacidade.
+### 3. [📐 Modelagem & Arquitetura](https://github.com/jaquelinedaniel-pt/winwin-product-portfolio/tree/main/docs/03-Modelagem_e_Arquitetura)
+> *Desenho de fluxos complexos e estrutura de dados.*
+* [**Diagrama de Banco de Dados (ERD)**](https://github.com/jaquelinedaniel-pt/winwin-product-portfolio/blob/main/docs/03-Modelagem_e_Arquitetura/01-database-erd.md)
+* [**Lógica Econômica & Estorno**](https://github.com/jaquelinedaniel-pt/winwin-product-portfolio/blob/main/docs/03-Modelagem_e_Arquitetura/02-economic-logic.md)
+* [**Fluxo de Onboarding Híbrido**](https://github.com/jaquelinedaniel-pt/winwin-product-portfolio/blob/main/docs/03-Modelagem_e_Arquitetura/03-onboarding-flow.md)
+* [**Máquina de Estados da Tarefa**](https://github.com/jaquelinedaniel-pt/winwin-product-portfolio/blob/main/docs/03-Modelagem_e_Arquitetura/04-state-machine.md)
+
+### 4. [⚖️ Especificação Técnica](https://github.com/jaquelinedaniel-pt/winwin-product-portfolio/tree/main/docs/04-Especificacao_Tecnica)
+> *Regras para desenvolvimento e integridade de dados.*
+* [**Dicionário de Dados**](https://github.com/jaquelinedaniel-pt/winwin-product-portfolio/blob/main/docs/04-Especificacao_Tecnica/01-data-dictionary.md)
+* [**Regras de Negócio**](https://github.com/jaquelinedaniel-pt/winwin-product-portfolio/blob/main/docs/04-Especificacao_Tecnica/02-business-rules.md)
+
+### 5. [🛡️ Qualidade (QA)](https://github.com/jaquelinedaniel-pt/winwin-product-portfolio/tree/main/docs/05-Quality_Assurance)
+> *Validação das entregas.*
+* [**Relatório de QA e Testes Automatizados**](https://github.com/jaquelinedaniel-pt/winwin-product-portfolio/blob/main/docs/05-Quality_Assurance/01-qa-report.md)
 
 ---
 
@@ -87,11 +105,11 @@ Adaptação da interface e dos métodos de interação (`Alert` vs `window.confi
 
 
 ---
-## 👩‍💻 Sobre a Product Owner
+## 👩‍💻 Sobre a Analista do Projeto
 
 <div align="center">
   <h3>Jaqueline Daniel</h3>
-  <p><strong>Product Owner | Business Analyst & Strategist</strong></p>
+  <p><strong>Analista Funcional | Business Analyst & Strategist</strong></p>
   <p>15 anos de experiência transformando complexidade operacional em produtos digitais de alto valor.</p>
    
   <p>
