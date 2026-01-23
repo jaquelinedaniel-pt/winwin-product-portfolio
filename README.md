@@ -116,7 +116,7 @@ Adaptação da interface e dos métodos de interação (`Alert` vs `window.confi
     <a href="https://www.linkedin.com/in/jaquelinedaniel-pt" target="_blank">
       <img src="https://img.shields.io/badge/-Conectar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a> 
-    <a href="https://jaquelinedaniel.pt" target="_blank">
+    <a href="https://jaquelinedaniel-pt.github.io/portfolio-v3/" target="_blank">
       <img src="https://img.shields.io/badge/-Ver_Portfolio_Executivo-0f172a?style=for-the-badge&logo=react&logoColor=FFD700" target="_blank">
     </a>
   </p>
